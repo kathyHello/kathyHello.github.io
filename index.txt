@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>kathy</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css/pic.css">
+
+<body>
+
+<div>
+  <span>
+    <img src='http://chuantu.biz/t6/317/1527058756x-1404792843.gif'>
+    </img>
+  </span>
+</div>
+
+<h1>我的作品</h1>
+ 
+<p>我的作品.</p>
+ 
+</body>
+</html>
