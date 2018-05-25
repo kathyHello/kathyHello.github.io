@@ -1,2 +1,2 @@
 # kathyHello.github.io
-![](http://chuantu.biz/t6/319/1527229755x-1404781192.gif){:height="50%" width="50%"}
+<img src="http://chuantu.biz/t6/319/1527229755x-1404781192.gif" width="50%" height="50%">
