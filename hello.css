@@ -4,6 +4,10 @@
     clear: both;
 }
 
+.main-wrapper{
+    font-family: "Microsoft YaHei","Arial";
+}
+
 ul{
     margin:0;
 }
